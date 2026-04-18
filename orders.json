@@ -1,0 +1,29 @@
+[
+    {
+        "order_id": 101,
+        "customer": "Ravi",
+        "product": "Laptop",
+        "quantity": 1,
+        "price": 1200.0,
+        "status": "Shipped",
+        "total": 1200.0
+    },
+    {
+        "order_id": 102,
+        "customer": "Priya",
+        "product": "Mouse",
+        "quantity": 2,
+        "price": 25.5,
+        "status": "Placed",
+        "total": 51.0
+    },
+    {
+        "order_id": 103,
+        "customer": "Arjun",
+        "product": "Keyboard",
+        "quantity": 1,
+        "price": 75.0,
+        "status": "Placed",
+        "total": 75.0
+    }
+]
